@@ -21,7 +21,7 @@ EazyRooms is a comprehensive hostel management system designed to automate and s
 
 **Laundry Page:** Manages laundry schedules, including time slots and laundry room assignments.
 
-**Complaints Page:**Students can lodge complaints related to their accommodation or hostel facilities.
+**Complaints Page:** Students can lodge complaints related to their accommodation or hostel facilities.
 
 ## Overview Of Software
 
